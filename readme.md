@@ -12,3 +12,7 @@ Puedes comunicarte conmigo al siguiente correo: Ejemplo@email.com
 
 Facebook
 Youtube
+
+##### Skills
+
+Me gusta jugar videojuegos

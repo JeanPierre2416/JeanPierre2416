@@ -12,3 +12,7 @@ Puedes comunicarte conmigo al siguiente correo: Ejemplo@email.com
 
 Facebook
 Youtube
+
+##### Techologies
+
+Me gusta mucho la tecnologia

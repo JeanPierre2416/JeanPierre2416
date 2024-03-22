@@ -13,6 +13,11 @@ Puedes comunicarte conmigo al siguiente correo: Ejemplo@email.com
 Facebook
 Youtube
 
+<<<<<<< HEAD
+##### Hobies
+
+Me gusta jugar futbol
+=======
 ##### Skills
 
 Me gusta jugar videojuegos
@@ -20,3 +25,4 @@ Me gusta jugar videojuegos
 ##### Techologies
 
 Me gusta mucho la tecnologia y los videojuegos
+>>>>>>> 6455c557fcb26f51b4fce5b624eda1b1a81a4dc7

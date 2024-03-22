@@ -16,3 +16,7 @@ Youtube
 ##### Skills
 
 Me gusta jugar videojuegos
+
+##### Techologies
+
+Me gusta mucho la tecnologia y los videojuegos

@@ -15,4 +15,4 @@ Youtube
 
 ##### Techologies
 
-Me gusta mucho la tecnologia
+Me gusta mucho la tecnologia y los videojuegos

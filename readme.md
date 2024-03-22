@@ -18,3 +18,4 @@ Español
 Ingles 
 Frances
 Portugues
+Danes
